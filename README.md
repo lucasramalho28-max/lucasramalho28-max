@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/lucasramalho28-max/ai-dev-studio">Conheça meu projeto</a> ·
+  <a href="https://wa.me/5567981029292">WhatsApp</a> ·
   <a href="https://www.instagram.com/lucask22000/">Instagram</a> ·
   <a href="https://www.facebook.com/lucas.ramalho.12">Facebook</a>
 </p>
@@ -31,6 +32,7 @@ Um ambiente de desenvolvimento para Windows com IA local via Ollama, editor de c
 
 ## Contato
 
+- [WhatsApp — +55 (67) 98102-9292](https://wa.me/5567981029292)
 - [Instagram — @lucask22000](https://www.instagram.com/lucask22000/)
 - [Facebook — Lucas Ramalho](https://www.facebook.com/lucas.ramalho.12)
 
