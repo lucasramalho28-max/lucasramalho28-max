@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title description">
+  <title id="title">Lucas Ramalho</title>
+  <desc id="description">Inteligência artificial aplicada. Código, automação e dados.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#101c23"/>
+      <stop offset="1" stop-color="#0c151b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#82efcb"/>
+      <stop offset="1" stop-color="#43bbbd"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#8bcabb" stroke-width="1" opacity=".06"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="20" fill="url(#grid)"/>
+  <rect x="46" y="58" width="5" height="199" rx="2.5" fill="url(#accent)"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="76" y="91" font-size="15" letter-spacing="4" font-weight="600" fill="#82efcb">IDEIAS EM CONSTRUÇÃO</text>
+    <text x="73" y="157" font-size="56" letter-spacing="-2" font-weight="700" fill="#eef7f6">Lucas Ramalho</text>
+    <text x="76" y="201" font-size="24" fill="#b5cccb">Inteligência artificial aplicada</text>
+    <text x="76" y="242" font-size="16" fill="#7f9e9e">CÓDIGO · AUTOMAÇÃO · DADOS</text>
+  </g>
+  <g transform="translate(810 54)">
+    <rect width="320" height="212" rx="15" fill="#15262c" stroke="#30514f"/>
+    <path d="M0 39 H320" stroke="#30514f"/>
+    <g fill="#52736f"><circle cx="19" cy="20" r="4"/><circle cx="34" cy="20" r="4"/><circle cx="49" cy="20" r="4"/></g>
+    <text x="72" y="24" font-family="Consolas,monospace" font-size="11" fill="#9ab6b2">AI DEV STUDIO</text>
+    <path d="M160 89 V119 M70 119 H250 M70 119 V142 M160 119 V142 M250 119 V142" stroke="#4e8b7a" stroke-width="2" fill="none"/>
+    <rect x="104" y="59" width="112" height="33" rx="8" fill="#24493e" stroke="#82efcb"/>
+    <text x="160" y="80" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#b8f5df">Coordenador</text>
+    <g fill="#1b3536" stroke="#477c70"><rect x="23" y="143" width="94" height="33" rx="8"/><rect x="127" y="143" width="66" height="33" rx="8"/><rect x="203" y="143" width="94" height="33" rx="8"/></g>
+    <g font-family="Segoe UI,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#bed9d2"><text x="70" y="164">Código</text><text x="160" y="164">Dados</text><text x="250" y="164">Revisão</text></g>
+  </g>
+</svg>
